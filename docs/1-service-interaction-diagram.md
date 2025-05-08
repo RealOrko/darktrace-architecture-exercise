@@ -12,7 +12,7 @@ Immediate thoughts around security there is no identity provider or IDP. Would l
 
 ## Scalability
 
-Not adddressed by this diagram but I highly recommend we start with the [network diagram](2-network-architecture-diagram.md) next if this is where the discussion goes next. 
+Not adddressed by this diagram but I highly recommend we start with the [network diagram](2-network-architecture-diagram.md) next if this is where the discussion goes next. Would keep a keen eye on folks using PM2 in the nodejs arena. Multi-processing using PANDA in python is also something to look out for. Generally folks taking on infra in code is perhaps an issue. Also implementing your own IDP needs to be considered amongst teams. 
 
 ## Maintainability
 

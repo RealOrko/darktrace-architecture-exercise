@@ -1,3 +1,5 @@
+![](assets/darktrace.jpg)
+
 # Architecture Exercise
 
 This is an exercise to design a cloud based solution to high level requirements. The requirements are deliberately loose to allow for maximum freedom with design. Please see the requirements below and design an architecture for hosting this service, diagrams are highly encouraged but anything that effectively gets the point across is acceptable. Your supplied diagram(s) and explanations should describe enough of the design without you needing to talk through it all in person.
@@ -30,3 +32,11 @@ Please be mindful of the following considerations as you work through this solut
 * Cost effectiveness
 
 Our questions will be around these topics mainly.
+
+## Candidate Response
+
+The brief was based on high-level requirements, so articulation of the landscape was presented in 3 very basic ways. To clear up any assumptions, I started by articulating how I "thought" the serivces were meant to interact with each other. I subsequently went ahead and built out a basic network diagram with the example AUTH flow for achieving a token using a network diagram, shortly followed by a very light example of what the delivery pipeline could look like. The devil is always in the detail, thanks for reviewing. 
+
+* [Service Interaction Diagram](docs/1-service-interaction-diagram.md) 
+* [Network Architecture Diagram](docs/2-network-architecture-diagram.md)
+* [CI/CD Delivery Diagram](docs/3-ci-cd-delivery-diagram.md)

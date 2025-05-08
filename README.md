@@ -1,4 +1,4 @@
-![](assets/darktrace.jpg)
+![](docs/assets/darktrace.jpg)
 
 # Architecture Exercise
 

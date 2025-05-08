@@ -40,5 +40,3 @@ The brief was based on high-level requirements, so articulation of the landscape
 * [Service Interaction Diagram](docs/1-service-interaction-diagram.md) 
 * [Network Architecture Diagram](docs/2-network-architecture-diagram.md)
 * [CI/CD Delivery Diagram](docs/3-ci-cd-delivery-diagram.md)
-
-
